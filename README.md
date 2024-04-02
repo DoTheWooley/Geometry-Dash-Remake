@@ -1,1 +1,1 @@
-Press E to open the editor. WASD to move around while in the editor. Click to place an object. Press space to scroll through objects. Arrows to move an object. P/L to modify size. F/C to modify layer. 
+Press E to open the editor. WASD to move around while in the editor. Click to place an object. Press space to scroll through objects. Arrows to move an object. P/L to modify size. F/C to modify layer. You can load the file on https://studio.penguinmod.com/editor.html
